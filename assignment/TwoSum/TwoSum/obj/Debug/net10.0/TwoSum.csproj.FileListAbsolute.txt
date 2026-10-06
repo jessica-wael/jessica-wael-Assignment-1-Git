@@ -1,0 +1,15 @@
+E:\Submission\assignment\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.exe
+E:\Submission\assignment\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.deps.json
+E:\Submission\assignment\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.runtimeconfig.json
+E:\Submission\assignment\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.dll
+E:\Submission\assignment\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.pdb
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.AssemblyInfoInputs.cache
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.AssemblyInfo.cs
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.csproj.CoreCompileInputs.cache
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.dll
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\refint\TwoSum.dll
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.pdb
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.genruntimeconfig.cache
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\ref\TwoSum.dll
+E:\Submission\assignment\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.csproj.Up2Date
